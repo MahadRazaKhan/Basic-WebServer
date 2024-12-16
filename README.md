@@ -15,6 +15,6 @@ This repository showcases a **basic web server** built using **Node.js HTTP modu
 - Lightweight and easy to understand for beginners.
 
 ---
-![Gif](https://assets-v2.lottiefiles.com/a/6ce2105a-1172-11ee-8e74-f710a8360dc3/3bR7bL98De.gif)
+![Gif](https://www.liquidweb.com/wp-content/uploads/2024/03/5-6_July.gif)
 
 
