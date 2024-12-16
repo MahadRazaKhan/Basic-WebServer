@@ -4,7 +4,7 @@ This repository showcases a **basic web server** built using **Node.js HTTP modu
 
 ---
 
-![Image]()
+![Image](https://media.geeksforgeeks.org/wp-content/uploads/20190927155217/webserver.png)
 
 ---
 
